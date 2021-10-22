@@ -1,0 +1,110 @@
+body {
+    background: black;
+    background-image: url('background.png');
+    background-repeat: repeat-x;
+}
+.form {
+    margin: 50px auto;
+    margin-top: 50px;
+    width: 300px;
+    padding: 20px 20px;
+    background: white;
+    text-align: center;
+}
+
+div {
+    background-color: lightgrey;
+    width: 300px;
+    padding: 5px;
+    margin: 2px;
+}
+h1.login-title {
+    color: #666;
+    margin: 0px auto 25px;
+    font-size: 25px;
+    font-weight: 300;
+    text-align: center;
+}
+
+h1.header-title {
+    width: auto;
+    background: gray;
+    padding: 5px;
+    font-size: 25px;
+    text-align: center;
+    margin-top: -5px;
+    height: auto;
+    color: #fff;
+}
+h2.header-main {
+    font-size: 20px;
+    text-align: right;
+    height: 0px;
+    margin-top: -50px;
+    padding-right: 10px;
+    color: #fff;
+}
+h2.logout-button {
+    color: #fff;
+    font-size: 20px;
+    text-align: left;
+    height: 0px;
+    margin-top: -15px;
+    padding-left: 5px;
+}
+.login-input {
+    font-size: 15px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 25px;
+    height: 25px;
+    width: calc(100% - 23px);
+}
+.login-input:focus {
+    border-color:#6e8095;
+    outline: none;
+}
+.login-button {
+    color: #fff;
+    background: slategray;
+    border: 0;
+    outline: 0;
+    width: 100%;
+    height: 50px;
+    font-size: 18px;
+    text-align: center;
+    cursor: pointer;
+}
+.form-button {
+	padding-top: 0px;
+    border: 0;
+    outline: 0;
+    color: #fff;
+    background: slategray;
+    width: 70%;
+    height: 35px;
+    font-size: 14px;
+    text-align: center;
+    cursor: pointer;
+	margin: 0 auto;
+	margin-top: 5px;
+	display: block;
+}
+.link {
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+.link a {
+    color:white;
+}
+.link_black {
+    color:black;
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+h3 {
+    font-weight: normal;
+    text-align: center;
+}
