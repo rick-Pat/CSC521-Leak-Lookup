@@ -1,1 +1,1 @@
-"# CSC521-Leak-Lookup" 
+My senior capstone project was a web application that enables a user to select a verified email address from their account and search a collection of leaked databases in the form of text files for a match and returns all the corresponding data associated.
